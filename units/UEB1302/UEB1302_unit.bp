@@ -38,6 +38,7 @@ UnitBlueprint {
         'VISIBLETORECON',
         'RECLAIMABLE',
         'SORTECONOMY',
+        'SPECIALLOWPRI',
     },
     Defense = {
         AirThreatLevel = 0,

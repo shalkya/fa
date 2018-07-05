@@ -40,6 +40,7 @@ UnitBlueprint {
         'RECLAIMABLE',
         'SHOWQUEUE',
         'SORTECONOMY',
+        'SPECIALLOWPRI',
     },
     Defense = {
         AirThreatLevel = 0,

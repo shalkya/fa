@@ -36,6 +36,7 @@ UnitBlueprint {
         'RECLAIMABLE',
         'SHOWQUEUE',
         'SORTECONOMY',
+        'SPECIALLOWPRI',
     },
     CollisionOffsetY = 0,
     Defense = {
