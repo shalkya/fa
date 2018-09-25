@@ -47,6 +47,7 @@ UnitBlueprint {
         'SHOWQUEUE',
         'SORTECONOMY',
         'CQUEMOV', --"CQUEMOV" enables the selection and move commands during construction
+        'SPECIALLOWPRI',
     },
     CollisionOffsetY = 0,
     Defense = {

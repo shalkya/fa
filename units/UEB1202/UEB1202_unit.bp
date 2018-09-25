@@ -41,6 +41,7 @@ UnitBlueprint {
         'SHOWQUEUE',
         'SORTECONOMY',
         'CQUEMOV', --"CQUEMOV" enables the selection and move commands during construction
+        'SPECIALLOWPRI',
     },
     Defense = {
         AirThreatLevel = 0,
